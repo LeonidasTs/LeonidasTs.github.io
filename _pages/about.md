@@ -9,7 +9,7 @@ subtitle: '<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;"
 <a href="https://github.com/LeonidasTs" target="_blank" style="margin-right: 10px;">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20" height="20"/> GitHub
 </a>
-  <a href="www.linkedin.com/in/leotsig" target="_blank">
+  <a href="https://linkedin.com/in/leotsig" target="_blank">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.png" alt="LinkedIn" width="20" height="20"/> LinkedIn
   </a>
   <a href="https://spincom.umn.edu" target="_blank">
@@ -18,12 +18,8 @@ subtitle: '<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;"
 
 profile:
   align: left
-  image: 1.jpg
+  image: LT.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
