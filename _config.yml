@@ -137,11 +137,6 @@ newsletter:
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
