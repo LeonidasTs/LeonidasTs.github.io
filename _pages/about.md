@@ -12,7 +12,7 @@ subtitle: '<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;"
   <a href="www.linkedin.com/in/leotsig" target="_blank">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.png" alt="LinkedIn" width="20" height="20"/> LinkedIn
   </a>
-  <a href="https://scholar.google.com/citations?user=iAk3vUYAAAAJ&hl=en" target="_blank">
+  <a href="https://spincom.umn.edu" target="_blank">
   <img src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" alt="Google Scholar" width="20", height="20"/> Google Scholar
 </div>'
 
