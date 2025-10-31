@@ -5,13 +5,13 @@
       institution: University of Minnesota, Minneapolis, USA
       year: 2025 - Present
       description:
-        - Research interests in the intersection of Machine Learning, Signal Processing and Optimization
-        - Supervised by Prof. Georgios Giannakis
+        - Research interests in the intersection of Machine Learning, Signal Processing and Optimization.
+        - Supervised by Prof. Georgios Giannakis.
     - title: M.Eng in Electrical and Electronics Engineering
       institution: Imperial College London, London, UK
       year: 2020-2025
       description:
-        - Thesis "Wasserstein Distributionally Robust Portfolio Optimisation with Graph Sparsification"
+        - Thesis "Wasserstein Distributionally Robust Portfolio Optimisation with Graph Sparsification".
         - Supervised by Prof. Imad Jaimoukha
         - 4.0 GPA
 
@@ -41,7 +41,7 @@
       institution: Imperial Colelge London, London, UK
       year: Fall - 2023
       description:
-        - Presented weekly course material and hosted Q&A sessions boosting engagement
+        - Presented weekly course material and hosted Q&A sessions boosting engagement.
     - title: Principles of Classical and Modern Radar Systems
       institution: Imperial Colelge London, London, UK
       year: Fall - 2023
@@ -57,8 +57,23 @@
         - University of Minnesota Gordon Sprague Fellowship for Deserving Students.
         - University of Minnesota Kaveh Fellowship for Student Excellence.
     - year: 2024
+      items:
         - Imperial Colelge London UROP Bursary Prize.
     - year: 2024
+      items:
         - Received Associateship Rank at City and Guilds of London Institute.
+        
+- title: Languages
+  type: list
+  contents:
+    - Greek (Native)
+    - English (Fluent)
+    - French (Advanced, DELF B2)
 
-- title: 
+- title: Music & Outdoors Activities
+  type: list
+  contents:
+    - Formal Piano Study at Athens Conservatory.
+    - Music Technology and Production at Berklee College of Music and Philippos Nakas Conservatory.
+    - Active in Swimming and Wakesurfing at Vouliagmeni Nautical Club.
+    - Co-organized the 1st Patmos Island "ChoRun" mini-marathon, 500 participants.
