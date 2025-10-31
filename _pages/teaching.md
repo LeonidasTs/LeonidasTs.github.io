@@ -1,12 +1,35 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Teaching experience at Imperial College London and University of Minnesota
 nav: true
-nav_order: 6
+nav_order: 3
 ---
+## Instructor
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- **Example 1** at University X
 
-Organize your courses by years, topics, or universities, however you like!
+   - Course: example
+   - Instructor: Name
+   - Semesters: Fall Date
+
+## Teaching Assistant
+
+- Graduate course, **Imperial College London**, Course Name, Year
+
+   - Course: Example
+   - Instructor: Name
+   - Semesters: Fall Date
+  
+- Graduate course, **Imperial College London**, Course Name, Year
+
+ - Course: Example
+ - Instructor: Name
+ - Semesters: Fall Date
+
+- Undergraduate course, **Imperial College London**, Course Name, Year
+
+   - Course: Example
+   - Instructor: Name
+   - Semesters: Fall Date
