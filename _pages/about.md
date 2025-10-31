@@ -26,9 +26,7 @@ social: false # includes social icons at the bottom of the page
 news: true # includes a list of news items
 ---
 
-I am a first year Ph.D. student at University of Minnesota under the supervision of Prof. Georgios B. Giannakis. I am interested in conducting research on the 
-
-I completed my M.Eng in Electrical and Electronic Engineering at Imperial College London, where my final year thesis explored Network Sparsification and Distributional Robustness. During my studies at Imperial, I also conducted research on state-of-the-art AI applications in Deep Learning for Medical Imaging and NLP-based Sentiment Classification with Parameter Efficient Fine-tuned LLMs. 
+I am a first year Ph.D. student at University of Minnesota coonducting research at the intersection of Signal Processing, Optimization, and Machine Learning under the supervision of Prof. Georgios B. Giannakis. Prior to my Ph.D., I graduated from Imperial College London with a first-class M.Eng in Electrical and Electronic Engineering. My final year thesis explored Network Sparsification with Distributional Robustness for Resource Allcoation. During my undergraduate studies, I also conducted research on state-of-the-art AI applications in Deep Learning for Medical Imaging and NLP-based Sentiment Classification with Parameter Efficient Fine-tuned LLMs. 
 
 I am originally from Athens, Greece.
 
