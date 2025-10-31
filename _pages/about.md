@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: '<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;"> 
 <a href="mailto:tsigk001@umn.edu" style="margin-right: 10px;">
