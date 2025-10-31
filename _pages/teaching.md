@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching experience at Imperial College London and University of Minnesota.
+description: Teaching experience at Imperial College London.
 nav: true
 nav_order: 3
 ---
