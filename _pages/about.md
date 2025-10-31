@@ -18,7 +18,7 @@ subtitle: '<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;"
 
 profile:
   align: left
-  image: assets/img/1.jpg
+  image: 1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
