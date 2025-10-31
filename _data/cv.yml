@@ -23,14 +23,13 @@
       institution: AIDA Finance Lab
       year: Jul - Aug 2024
       description:
-        - Low-rank adaptation (LoRA) finetuning of LLMs for AI financial news sentiment analysis under the supervision of Prof. Danilo Mandic.
-        
+        - Worked on Low-rank adaptation (LoRA) finetuning of LLMs for AI financial news sentiment analysis under the supervision of Prof. Danilo Mandic.
     - title: Research Summer Intern
-      institution: Salesforce Research
-      year: 2023-2024
+      institution: UK National Heart and Lung Institute
+      year: Jul - Aug 2023
       description:
-        - Conducted multimodal AI research under the supervision of Dr. Juan Carlos Niebles.
-    - title: Research Summer Intern
+        - Developed medical image segmentation AI algorithms under the supervision of Dr. Guang Yang.
+    - title: Teaching Assistant
       institution: Salesforce Research
       year: 2023-2024
       description:
