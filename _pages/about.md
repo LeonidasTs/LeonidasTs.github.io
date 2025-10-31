@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: '<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;"> 
