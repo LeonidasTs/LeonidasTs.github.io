@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Teaching experience at Imperial College London and University of Minnesota.",
+          description: "Teaching experience at Imperial College London.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
