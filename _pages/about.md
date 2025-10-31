@@ -18,7 +18,7 @@ subtitle: '<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;"
 
 profile:
   align: left
-  image: LT.jpg
+  image: LT.JPEG
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
