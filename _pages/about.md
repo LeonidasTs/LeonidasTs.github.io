@@ -26,6 +26,10 @@ social: false # includes social icons at the bottom of the page
 news: true # includes a list of news items
 ---
 
-I am a PhD student at University of Minnesota. I will update this section shortly...
+I am a first year Ph.D. student at University of Minnesota under the supervision of Prof. Georgios B. Giannakis. I am interested in conducting research on the 
+
+I completed my M.Eng in Electrical and Electronic Engineering at Imperial College London, where my final year thesis explored Network Sparsification and Distributional Robustness. During my studies at Imperial, I also conducted research on state-of-the-art AI applications in Deep Learning for Medical Imaging and NLP-based Sentiment Classification with Parameter Efficient Fine-tuned LLMs. 
+
+I am originally from Athens, Greece.
 
 
