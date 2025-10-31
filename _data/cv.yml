@@ -5,9 +5,8 @@
       institution: University of Minnesota, Minneapolis, USA
       year: 2025 - Present
       description:
-        - Research interests in Machine Learning
+        - Research interests in the intersection of Machine Learning, Signal Processing and Optimization
         - Supervised by Prof. Georgios Giannakis
-
     - title: M.Eng in Electrical and Electronics Engineering
       institution: Imperial College London, London, UK
       year: 2020-2025
@@ -30,14 +29,36 @@
       description:
         - Developed medical image segmentation AI algorithms under the supervision of Dr. Guang Yang.
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Deep Learning
+      institution: Imperial Colelge London, London, UK
+      year: Spring - 2024
+      description:
+        - Delivered weekly supplementary classes to cohorts of 400+ students.
+    - title: Machine Learning
+      institution: Imperial Colelge London, London, UK
+      year: Fall - 2023
+      description:
+        - Presented weekly course material and hosted Q&A sessions boosting engagement
+    - title: Principles of Classical and Modern Radar Systems
+      institution: Imperial Colelge London, London, UK
+      year: Fall - 2023
+      description: 
+        - Graded assignments, and provided detailed personalized written feedback for 55 students.
+        - Class average increased by 7% comapred to previous year.
+         
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2025
       items: 
-        - University of Minnesota Gordon Sprague Fellowship for Deserving Students
-        - University of Minnesota Kaveh Fellowship for Student Excellence
+        - University of Minnesota Gordon Sprague Fellowship for Deserving Students.
+        - University of Minnesota Kaveh Fellowship for Student Excellence.
     - year: 2024
-        - Imperial Colelge London UROP Bursary Prize
+        - Imperial Colelge London UROP Bursary Prize.
     - year: 2024
-        - Received Associateship Rank at City and Guilds of London Institute
+        - Received Associateship Rank at City and Guilds of London Institute.
+
+- title: 
